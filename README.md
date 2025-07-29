@@ -33,7 +33,7 @@ Welcome to the NEAR AI Learning Hub! This repository is your comprehensive resou
 │   ├── building-multi-agent-communication/
 │   └── integrating-apis-with-near-ai/
 │
-├── 📓 notebooks/              # Interactive Jupyter Notebooks with AI Agent demos
+├── 📓 notebooks/              # Interactive Notebooks with AI Agent demos
 │   └── ai-agent-example.ipynb
 │
 └── README.md               # You are here!
@@ -59,6 +59,18 @@ We welcome contributions from the community! If you’d like to add your own tut
 
 Your contributions help expand and refine the ecosystem of NEAR AI resources.
 
+🔄 Reusability & Scope
+
+🧠 These workshops aren’t just built for the universities listed — they’re designed to be multipurpose, forkable, and adaptable across student communities, hackathons, and dev groups.
+
+- Each workshop acts as a “guiding agent”: a modular learning path that can be used to:
+- Onboard new contributors into the NEAR AI and Shade Agent ecosystems
+- Serve as a technical workshop at blockchain club events
+- Act as a self-paced learning resource for individuals
+- Be forked into tutorials, bounty templates, or agent starter kits
+
+We encourage you to remix, translate, or extend these as needed. Open-source means open invitation. 🌍
+
 ### Additional Context & Resources
 
 1. **NEAR AI Docs & Quickstart**  
@@ -69,7 +81,14 @@ Your contributions help expand and refine the ecosystem of NEAR AI resources.
 
 2. **NEAR Protocol Rewards Program**  
    - [NEAR Protocol Rewards Repository](https://github.com/jbarnes850/near-protocol-rewards)  
-     An incentive program designed for developer retention post-hackathon or event, providing extended opportunities within the NEAR ecosystem.
+     An incentive program designed for developer retention post-hackathon or event, providing extended opportunities within the NEAR ecosystem.### Additional Context & Resources
+
+3. **Additional Learning Resources**  
+   Here are some valuable resources to dive deeper into NEAR AI, Shade Agents, and real use cases:
+   - [Intro to Shade Agents – YouTube Walkthrough #1](https://www.youtube.com/watch?v=5wr9ltBUm9s)  
+   - [Shade Agent Technical Docs – docs.near.org/ai/shade-agents](https://docs.near.org/ai/shade-agents/introduction)  
+   - [Advanced Walkthrough: Building Shade Agents – YouTube Walkthrough #2](https://www.youtube.com/watch?v=4xeyDfWTdIo)  
+   - [Blog: The First Truly Autonomous AI Agents – NEAR.org Blog](https://www.near.org/blog/shade-agents-the-first-truly-autonomous-ai-agents)
 
 
 ## Get in Touch
@@ -77,7 +96,6 @@ Your contributions help expand and refine the ecosystem of NEAR AI resources.
 ### NEAR AI Social
 - **Twitter:** [@near_ai](https://twitter.com/near_ai)  
   Follow for the latest news, updates, and community highlights.
-
 
 ### Blockchain Acceleration Foundation (BAF)
 - **Twitter:** [@TheBAFNetwork](https://twitter.com/TheBAFNetwork)  
